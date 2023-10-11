@@ -1,0 +1,1902 @@
+{
+  "products": [
+    {
+      "_id": "650c43f412e6ceb47d002b75",
+      "name": "Dyson",
+      "price": 500000,
+      "slugify": "dyson-f5b8",
+      "images": [
+        "/uploads/photos_1696169662824.jpg",
+        "/uploads/photos_1696169697133.jpg",
+        "/uploads/photos_1696173429839.jpg",
+        "/uploads/photos_1696173439121.jpg",
+        "/uploads/photos_1696173440525.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 149,
+      "colors": [],
+      "createdAt": "2023-09-21T13:24:04.320Z",
+      "units": {
+        "sizes": [],
+        "_id": "65198d830f124a73444e224a"
+      }
+    },
+    {
+      "_id": "64ff222f76153ef8646d6056",
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 50,
+      "colors": [],
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      }
+    },
+    {
+      "_id": "64ff212276153ef8646d6001",
+      "name": "Smartfon uchun kuler L-05, akkumulyator bilan",
+      "price": 220000,
+      "slugify": "smartfon-uchun-kuler-l-05-akkumulyator-bilan-de40",
+      "images": [
+        "/uploads/photos_1696176465281.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 49,
+      "colors": [],
+      "createdAt": "2023-09-11T14:16:02.837Z",
+      "units": {
+        "sizes": [],
+        "_id": "651999580f124a73444e23cb"
+      }
+    },
+    {
+      "_id": "64ff204a76153ef8646d5fd9",
+      "name": "Telefon kuller sovutgichi AL 07, telefon sovutish uchun",
+      "price": 180000,
+      "slugify": "telefon-kuller-sovutgichi-al-07-telefon-sovutish-uchun-898c",
+      "images": [
+        "/uploads/photos_1696178067029.jpg",
+        "/uploads/photos_1696178076847.jpg",
+        "/uploads/photos_1696178080181.jpg",
+        "/uploads/photos_1696178091172.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 59,
+      "colors": [],
+      "createdAt": "2023-09-11T14:12:26.141Z",
+      "units": {
+        "sizes": [],
+        "_id": "65199fab0f124a73444e2581"
+      }
+    },
+    {
+      "_id": "64ff1d5376153ef8646d5f56",
+      "name": "Baseus PPJL010001 10000mAh",
+      "price": 440000,
+      "slugify": "baseus-ppjl010001-10000mah-492d",
+      "images": [
+        "/uploads/photos_1696178594169.jpg",
+        "/uploads/photos_1696178603849.jpg",
+        "/uploads/photos_1696178613230.jpg",
+        "/uploads/photos_1696178621368.jpg",
+        "/uploads/photos_1696178625964.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 60,
+      "colors": [],
+      "createdAt": "2023-09-11T13:59:47.659Z",
+      "units": {
+        "sizes": [],
+        "_id": "6519a1c40f124a73444e26cf"
+      }
+    },
+    {
+      "_id": "64ff19ae76153ef8646d5e17",
+      "name": "Baseus PPAD040001 10000mAh 30W",
+      "price": 480000,
+      "slugify": "baseus-ppad040001-10000mah-30w-8ea1",
+      "images": [
+        "/uploads/photos_1696179366462.jpg",
+        "/uploads/photos_1696179369482.jpg",
+        "/uploads/photos_1696179377083.jpg",
+        "/uploads/photos_1696179379109.jpg",
+        "/uploads/photos_1696179385389.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 50,
+      "colors": [],
+      "createdAt": "2023-09-11T13:44:14.549Z",
+      "units": {
+        "sizes": [],
+        "_id": "6519a4be0f124a73444e27ba"
+      }
+    },
+    {
+      "_id": "64ff17dc76153ef8646d5dd2",
+      "name": "Tashqi akkumulyator Borofone BJ29 Discovery Edition PD20W, 10000 mA/soat",
+      "price": 390000,
+      "slugify": "tashqi-akkumulyator-borofone-bj29-discovery-edition-pd20w-10000-masoat-7111",
+      "images": [
+        "/uploads/photos_1696180111547.jpg",
+        "/uploads/photos_1696180169072.jpg",
+        "/uploads/photos_1696180170130.jpg",
+        "/uploads/photos_1696180205974.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 30,
+      "colors": [],
+      "createdAt": "2023-09-11T13:36:28.986Z",
+      "units": {
+        "sizes": [],
+        "_id": "6519a7f10f124a73444e2874"
+      }
+    },
+    {
+      "_id": "64ff16b776153ef8646d5d95",
+      "name": "Cho'ntak uchunWi-Fi MF800",
+      "price": 500000,
+      "slugify": "chontak-uchunwi-fi-mf800-acd6",
+      "images": [
+        "/uploads/photos_1696180853344.png",
+        "/uploads/photos_1696180863427.jpg",
+        "/uploads/photos_1696180874191.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 40,
+      "colors": [],
+      "createdAt": "2023-09-11T13:31:35.472Z",
+      "units": {
+        "sizes": [],
+        "_id": "6519aa920f124a73444e29be"
+      }
+    },
+    {
+      "_id": "64ff152376153ef8646d5d5a",
+      "name": "Borofone BW10",
+      "price": 390000,
+      "slugify": "borofone-bw10-e354",
+      "images": [
+        "/uploads/photos_1696181110148.jpg",
+        "/uploads/photos_1696181154454.jpg",
+        "/uploads/photos_1696181180586.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 25,
+      "colors": [],
+      "createdAt": "2023-09-11T13:24:51.863Z",
+      "units": {
+        "sizes": [],
+        "_id": "6519abbf0f124a73444e2a4c"
+      }
+    },
+    {
+      "_id": "64ff10b776153ef8646d5ca9",
+      "name": "Borofone BE54",
+      "price": 290000,
+      "slugify": "borofone-be54-7a00",
+      "images": [
+        "/uploads/photos_1696182295654.png",
+        "/uploads/photos_1696182313565.jpg",
+        "/uploads/photos_1696182317765.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 50,
+      "colors": [],
+      "createdAt": "2023-09-11T13:05:59.570Z",
+      "units": {
+        "sizes": [],
+        "_id": "6519b0350f124a73444e2c10"
+      }
+    },
+    {
+      "_id": "64ff0ff776153ef8646d5c89",
+      "name": "Borofone BE52",
+      "price": 150000,
+      "slugify": "borofone-be52-e5b4",
+      "images": [
+        "/uploads/photos_1696182632184.jpg",
+        "/uploads/photos_1696182640814.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 23,
+      "colors": [],
+      "createdAt": "2023-09-11T13:02:47.884Z",
+      "units": {
+        "sizes": [],
+        "_id": "6519b1760f124a73444e2c89"
+      }
+    },
+    {
+      "_id": "64ff0e8376153ef8646d5c3d",
+      "name": "Awei T53",
+      "price": 290000,
+      "slugify": "awei-t53-c2d9",
+      "images": [
+        "/uploads/photos_1696182757916.jpg",
+        "/uploads/photos_1696182760238.jpg",
+        "/uploads/photos_1696182765420.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 50,
+      "colors": [],
+      "createdAt": "2023-09-11T12:56:35.267Z",
+      "units": {
+        "sizes": [],
+        "_id": "6519b2170f124a73444e2d31"
+      }
+    },
+    {
+      "_id": "64ff0df876153ef8646d5c1b",
+      "name": "Awei T28",
+      "price": 360000,
+      "slugify": "awei-t28-ffc9",
+      "images": [
+        "/uploads/photos_1696184610248.jpg",
+        "/uploads/photos_1696184658321.jpg",
+        "/uploads/photos_1696184663060.jpg",
+        "/uploads/photos_1696184668571.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 50,
+      "colors": [],
+      "createdAt": "2023-09-11T12:54:16.225Z",
+      "units": {
+        "sizes": [],
+        "_id": "6519b9d20f124a73444e2e06"
+      }
+    },
+    {
+      "_id": "64ff0d6d76153ef8646d5bfb",
+      "name": "O'yin uchun simsiz quloqchinlar Awei T23",
+      "price": 240000,
+      "slugify": "oyin-uchun-simsiz-quloqchinlar-awei-t23-5ed9",
+      "images": [
+        "/uploads/photos_1696185048772.jpg",
+        "/uploads/photos_1696185060046.jpg",
+        "/uploads/photos_1696185067777.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 50,
+      "colors": [],
+      "createdAt": "2023-09-11T12:51:57.739Z",
+      "units": {
+        "sizes": [],
+        "_id": "6519bb3a0f124a73444e2ee7"
+      }
+    },
+    {
+      "_id": "64ff0c4576153ef8646d5bac",
+      "name": "Anker Soundcore A20i",
+      "price": 485000,
+      "slugify": "anker-soundcore-a20i-aaef",
+      "images": [
+        "/uploads/photos_1696185405582.jpg",
+        "/uploads/photos_1696185473106.jpg",
+        "/uploads/photos_1696185475671.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 50,
+      "colors": [],
+      "createdAt": "2023-09-11T12:47:01.418Z",
+      "units": {
+        "sizes": [],
+        "_id": "6519bcac0f124a73444e2f5b"
+      }
+    },
+    {
+      "_id": "64ff0b9876153ef8646d5b73",
+      "name": "Anker R100",
+      "price": 500000,
+      "slugify": "anker-r100-0435",
+      "images": [
+        "/uploads/photos_1696186111734.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 90,
+      "colors": [],
+      "createdAt": "2023-09-11T12:44:08.741Z",
+      "units": {
+        "sizes": [],
+        "_id": "6519bf040f124a73444e2fe6"
+      }
+    },
+    {
+      "_id": "64ff0a0176153ef8646d5af7",
+      "name": "Yesido EP03",
+      "price": 360000,
+      "slugify": "yesido-ep03-793a",
+      "images": [
+        "/uploads/photos_1696186280447.jpg",
+        "/uploads/photos_1696186291582.png"
+      ],
+      "status": "ACTIVE",
+      "count": 50,
+      "colors": [],
+      "createdAt": "2023-09-11T12:37:21.618Z",
+      "units": {
+        "sizes": [],
+        "_id": "6519bfbb0f124a73444e303f"
+      }
+    },
+    {
+      "_id": "64ff08b276153ef8646d5abb",
+      "name": "Yesido TWS12",
+      "price": 309000,
+      "slugify": "yesido-tws12-312b",
+      "images": [
+        "/uploads/photos_1696186634970.png",
+        "/uploads/photos_1696186635894.png"
+      ],
+      "status": "ACTIVE",
+      "count": 25,
+      "colors": [],
+      "createdAt": "2023-09-11T12:31:46.905Z",
+      "units": {
+        "sizes": [],
+        "_id": "6519c1370f124a73444e30d2"
+      }
+    },
+    {
+      "_id": "64ff07e476153ef8646d5a5b",
+      "name": "Awei A998BL simsiz quloqchinlar",
+      "price": 369000,
+      "slugify": "awei-a998bl-simsiz-quloqchinlar-4f48",
+      "images": [
+        "/uploads/photos_1696186804188.jpg",
+        "/uploads/photos_1696186805237.jpg",
+        "/uploads/photos_1696186806936.jpg",
+        "/uploads/photos_1696186824543.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 25,
+      "colors": [],
+      "createdAt": "2023-09-11T12:28:20.788Z",
+      "units": {
+        "sizes": [],
+        "_id": "6519c1d90f124a73444e3182"
+      }
+    },
+    {
+      "_id": "64ff070876153ef8646d5a02",
+      "name": "Yesido TWS14",
+      "price": 310000,
+      "slugify": "yesido-tws14-b9c0",
+      "images": [
+        "/uploads/photos_1696186978326.png",
+        "/uploads/photos_1696186987394.png",
+        "/uploads/photos_1696187000349.png",
+        "/uploads/photos_1696187001921.png",
+        "/uploads/photos_1696187004016.png"
+      ],
+      "status": "ACTIVE",
+      "count": 100,
+      "colors": [],
+      "createdAt": "2023-09-11T12:24:40.161Z",
+      "units": {
+        "sizes": [],
+        "_id": "6519c2860f124a73444e31f7"
+      }
+    },
+    {
+      "_id": "64ff05c476153ef8646d597d",
+      "name": "Awei 780BL",
+      "price": 385000,
+      "slugify": "awei-780bl-eaae",
+      "images": [
+        "/uploads/photos_1696266228527.jpg",
+        "/uploads/photos_1696266235842.jpg",
+        "/uploads/photos_1696266238491.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 25,
+      "colors": [],
+      "createdAt": "2023-09-11T12:19:16.675Z",
+      "units": {
+        "sizes": [],
+        "_id": "651af8021e901c91c26b00f4"
+      }
+    },
+    {
+      "_id": "64ff034876153ef8646d58f1",
+      "name": "Klaviatura va sichqoncha to'plami GM12 Light and shadow RGB, qora \"faqat inglizcha klaviatura\"",
+      "price": 475000,
+      "slugify": "klaviatura-va-sichqoncha-toplami-gm12-light-and-shadow-rgb-qora-faqat-inglizcha-klaviatura-0a83",
+      "images": [
+        "/uploads/photos_1696266702310.jpg",
+        "/uploads/photos_1696266704211.jpg",
+        "/uploads/photos_1696266705975.jpg",
+        "/uploads/photos_1696266708650.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 30,
+      "colors": [],
+      "createdAt": "2023-09-11T12:08:40.657Z",
+      "units": {
+        "sizes": [],
+        "_id": "651af9dc1e901c91c26b0162"
+      }
+    },
+    {
+      "_id": "64ff01d976153ef8646d584c",
+      "name": "Sup Game Box X7M, portativ",
+      "price": 490000,
+      "slugify": "sup-game-box-x7m-portativ-e53a",
+      "images": [
+        "/uploads/photos_1696267003404.jpg",
+        "/uploads/photos_1696267006914.jpg",
+        "/uploads/photos_1696267008457.jpg",
+        "/uploads/photos_1696267014134.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 54,
+      "colors": [],
+      "createdAt": "2023-09-11T12:02:33.747Z",
+      "units": {
+        "sizes": [],
+        "_id": "651afb0a1e901c91c26b01cc"
+      }
+    },
+    {
+      "_id": "64ff001a76153ef8646d57fb",
+      "name": "Oyin pristavkasi Game Stick Lite 64 Gb, 4k Ultra HD, 2 geympad, 10000 ta oyin",
+      "price": 390000,
+      "slugify": "oyin-pristavkasi-game-stick-lite-64-gb-4k-ultra-hd-2-geympad-10000-ta-oyin-a709",
+      "images": [
+        "/uploads/photos_1696267137849.jpg",
+        "/uploads/photos_1696267141212.jpg",
+        "/uploads/photos_1696267144430.jpg",
+        "/uploads/photos_1696267147039.jpg",
+        "/uploads/photos_1696267149896.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 110,
+      "colors": [],
+      "createdAt": "2023-09-11T11:55:06.936Z",
+      "units": {
+        "sizes": [],
+        "_id": "651afb931e901c91c26b0253"
+      }
+    },
+    {
+      "_id": "64fef02076153ef8646d5633",
+      "name": "Mobil telefon Novey P40",
+      "price": 440000,
+      "slugify": "mobil-telefon-novey-p40-661b",
+      "images": [
+        "/uploads/photos_1696267405273.jpg",
+        "/uploads/photos_1696267407351.jpg",
+        "/uploads/photos_1696267410581.jpg",
+        "/uploads/photos_1696267413101.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 125,
+      "colors": [],
+      "createdAt": "2023-09-11T10:46:56.648Z",
+      "units": {
+        "sizes": [],
+        "_id": "651afc991e901c91c26b02b6"
+      }
+    },
+    {
+      "_id": "64feef5776153ef8646d55f5",
+      "name": "Mobil telefon Novey P50",
+      "price": 445000,
+      "slugify": "mobil-telefon-novey-p50-4ae1",
+      "images": [
+        "/uploads/photos_1696267785294.jpg",
+        "/uploads/photos_1696267785930.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 180,
+      "colors": [],
+      "createdAt": "2023-09-11T10:43:35.682Z",
+      "units": {
+        "sizes": [],
+        "_id": "651afe221e901c91c26b030f"
+      }
+    },
+    {
+      "_id": "64feeb2d76153ef8646d5551",
+      "name": "Mobil telefon Novey P30",
+      "price": 425000,
+      "slugify": "mobil-telefon-novey-p30-81c6",
+      "images": [
+        "/uploads/photos_1696267944330.jpg",
+        "/uploads/photos_1696267948056.jpg",
+        "/uploads/photos_1696267950530.jpg",
+        "/uploads/photos_1696267953374.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 85,
+      "colors": [],
+      "createdAt": "2023-09-11T10:25:49.503Z",
+      "units": {
+        "sizes": [],
+        "_id": "651afeb51e901c91c26b036a"
+      }
+    },
+    {
+      "_id": "64fee9f076153ef8646d54d7",
+      "name": "Nokia 125",
+      "price": 319000,
+      "slugify": "nokia-125-46b8",
+      "images": [
+        "/uploads/photos_1696268064250.jpg",
+        "/uploads/photos_1696268065803.jpg",
+        "/uploads/photos_1696268070444.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 95,
+      "colors": [],
+      "createdAt": "2023-09-11T10:20:32.052Z",
+      "units": {
+        "sizes": [],
+        "_id": "651aff2c1e901c91c26b03bd"
+      }
+    },
+    {
+      "_id": "64fee98776153ef8646d54b4",
+      "name": "Nokia 150",
+      "price": 335000,
+      "slugify": "nokia-150-c0df",
+      "images": [
+        "/uploads/photos_1696268130221.jpg",
+        "/uploads/photos_1696268143563.jpg",
+        "/uploads/photos_1696268144473.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 100,
+      "colors": [],
+      "createdAt": "2023-09-11T10:18:47.494Z",
+      "units": {
+        "sizes": [],
+        "_id": "651aff731e901c91c26b0403"
+      }
+    },
+    {
+      "_id": "64fccdf1db1a0585a0882169",
+      "name": "Borofone bd2 smart watch",
+      "price": 499000,
+      "slugify": "borofone-bd2-smart-watch-859e",
+      "images": [
+        "/uploads/photos_1696268213562.jpg",
+        "/uploads/photos_1696268213647.jpg",
+        "/uploads/photos_1696268216650.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 50,
+      "colors": [],
+      "createdAt": "2023-09-09T19:56:33.138Z",
+      "units": {
+        "sizes": [],
+        "_id": "651affbc1e901c91c26b0455"
+      }
+    },
+    {
+      "_id": "64fcccb2db1a0585a0882116",
+      "name": "Smart Watch 8 Se 45mm",
+      "price": 500000,
+      "slugify": "smart-watch-8-se-45mm-bc42",
+      "images": [
+        "/uploads/photos_1696268300327.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 20,
+      "colors": [],
+      "createdAt": "2023-09-09T19:51:14.179Z",
+      "units": {
+        "sizes": [],
+        "_id": "651b00141e901c91c26b049a"
+      }
+    },
+    {
+      "_id": "64fccb01db1a0585a08820de",
+      "name": "Amax Watch 9 49 MM",
+      "price": 460000,
+      "slugify": "amax-watch-9-49-mm-5421",
+      "images": [
+        "/uploads/photos_1696268526174.jpg",
+        "/uploads/photos_1696268526472.jpg",
+        "/uploads/photos_1696268571850.jpg",
+        "/uploads/photos_1696268577125.jpg",
+        "/uploads/photos_1696268591787.jpg",
+        "/uploads/photos_1696268594672.jpg",
+        "/uploads/photos_1696268596727.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 50,
+      "colors": [],
+      "createdAt": "2023-09-09T19:44:01.188Z",
+      "units": {
+        "sizes": [],
+        "_id": "651b014f1e901c91c26b0515"
+      }
+    },
+    {
+      "_id": "64fcc67fdb1a0585a0881f1a",
+      "name": "Anker Soundcore R50i simsiz naushniklar",
+      "price": 487000,
+      "slugify": "anker-soundcore-r50i-simsiz-naushniklar-3ddc",
+      "images": [
+        "/uploads/photos_1696268727503.jpg",
+        "/uploads/photos_1696268730095.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 50,
+      "colors": [],
+      "createdAt": "2023-09-09T19:24:47.164Z",
+      "units": {
+        "sizes": [],
+        "_id": "651b01be1e901c91c26b0567"
+      }
+    },
+    {
+      "_id": "64fcc555db1a0585a0881ea7",
+      "name": "INFENNIX Flip 5",
+      "price": 425000,
+      "slugify": "infennix-flip-5-1b9f",
+      "images": [
+        "/uploads/photos_1696268829802.jpg",
+        "/uploads/photos_1696268831423.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 19,
+      "colors": [],
+      "createdAt": "2023-09-09T19:19:49.062Z",
+      "units": {
+        "sizes": [],
+        "_id": "651b02321e901c91c26b05aa"
+      }
+    },
+    {
+      "_id": "64fcc42bdb1a0585a0881dd8",
+      "name": "Cho'ntak routeri WiFi 4G-LTE",
+      "price": 490000,
+      "slugify": "chontak-routeri-wifi-4g-lte-98c3",
+      "images": [
+        "/uploads/photos_1696268900420.png"
+      ],
+      "status": "ACTIVE",
+      "count": 10,
+      "colors": [],
+      "createdAt": "2023-09-09T19:14:51.486Z",
+      "units": {
+        "sizes": [],
+        "_id": "651b02701e901c91c26b05f3"
+      }
+    },
+    {
+      "_id": "64fcc127db1a0585a0881b23",
+      "name": "Novey X50",
+      "price": 430000,
+      "slugify": "novey-x50-323c",
+      "images": [
+        "/uploads/photos_1696269181018.jpg",
+        "/uploads/photos_1696269197375.jpg",
+        "/uploads/photos_1696269202267.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 100,
+      "colors": [],
+      "createdAt": "2023-09-09T19:01:59.589Z",
+      "units": {
+        "sizes": [],
+        "_id": "651b03941e901c91c26b064e"
+      }
+    },
+    {
+      "_id": "64fcbff6db1a0585a0881a81",
+      "name": "Novey X70",
+      "price": 500000,
+      "slugify": "novey-x70-3784",
+      "images": [
+        "/uploads/photos_1696270173707.jpg",
+        "/uploads/photos_1696270176181.jpg",
+        "/uploads/photos_1696270181231.jpg",
+        "/uploads/photos_1696270183648.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 100,
+      "colors": [],
+      "createdAt": "2023-09-09T18:56:54.256Z",
+      "units": {
+        "sizes": [],
+        "_id": "651b07721e901c91c26b07d2"
+      }
+    },
+    {
+      "_id": "64fcbf2edb1a0585a08819e3",
+      "name": "Novey D10 Gray telefoni",
+      "price": 475000,
+      "slugify": "novey-d10-gray-telefoni-ae70",
+      "images": [
+        "/uploads/photos_1696270290866.jpg",
+        "/uploads/photos_1696270291174.jpg",
+        "/uploads/photos_1696270289651.jpg",
+        "/uploads/photos_1696270289704.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 100,
+      "colors": [],
+      "createdAt": "2023-09-09T18:53:34.805Z",
+      "units": {
+        "sizes": [],
+        "_id": "651b08311e901c91c26b085a"
+      }
+    },
+    {
+      "_id": "64fcbd87db1a0585a0881917",
+      "name": "Kechaoda K888",
+      "price": 500000,
+      "slugify": "kechaoda-k888-a144",
+      "images": [
+        "/uploads/photos_1696270766704.jpg",
+        "/uploads/photos_1696270787474.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 19,
+      "colors": [],
+      "createdAt": "2023-09-09T18:46:31.368Z",
+      "units": {
+        "sizes": [],
+        "_id": "651b09c61e901c91c26b08eb"
+      }
+    },
+    {
+      "_id": "64fb1eaa5837a1f42413c0e6",
+      "name": " Texno Max",
+      "price": 500000,
+      "slugify": "texno-max-445f",
+      "images": [
+        "/uploads/photos_1694178957857.jpg",
+        "/uploads/photos_1694178960803.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 149,
+      "colors": [
+        {
+          "name": "black",
+          "color": "rgb(0, 0, 0)",
+          "_id": "64fb1eaa5837a1f42413c0e7"
+        },
+        {
+          "name": "gold",
+          "color": "rgb(239, 210, 49)",
+          "_id": "64fb1eaa5837a1f42413c0e8"
+        },
+        {
+          "name": "Shokoladrang",
+          "color": "rgb(198, 116, 8)",
+          "_id": "64fb1eaa5837a1f42413c0e9"
+        }
+      ],
+      "createdAt": "2023-09-08T13:16:26.206Z"
+    },
+    {
+      "_id": "64fb1dac5837a1f42413c05d",
+      "name": "Telefon Vertu Signature va Vertu Constellation Gold",
+      "price": 500000,
+      "slugify": "telefon-vertu-signature-va-vertu-constellation-gold-6933",
+      "images": [
+        "/uploads/photos_1696269994934.jpg",
+        "/uploads/photos_1696270001920.jpg",
+        "/uploads/photos_1696270007900.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 135,
+      "colors": [
+        {
+          "name": "black",
+          "color": "rgb(0, 0, 0)",
+          "_id": "64fb1dac5837a1f42413c05e"
+        },
+        {
+          "name": "gold",
+          "color": "rgb(233, 205, 79)",
+          "_id": "64fb1dac5837a1f42413c05f"
+        },
+        {
+          "name": "silver",
+          "color": "rgb(220, 220, 220)",
+          "_id": "64fb1dac5837a1f42413c060"
+        }
+      ],
+      "createdAt": "2023-09-08T13:12:12.291Z",
+      "units": {
+        "sizes": [],
+        "_id": "651b06bf1e901c91c26b071c"
+      }
+    },
+    {
+      "_id": "64f879620dd42cebebcf5a79",
+      "name": "Watch 8 T900 Ultra",
+      "price": 198000,
+      "slugify": "watch-8-t900-ultra-1f49",
+      "images": [
+        "/uploads/photos_1694096793739.jpg",
+        "/uploads/photos_1694096799122.jpg",
+        "/uploads/photos_1694096808409.webp"
+      ],
+      "status": "ACTIVE",
+      "count": 145,
+      "colors": [],
+      "createdAt": "2023-09-06T13:06:42.370Z",
+      "units": {
+        "sizes": [],
+        "_id": "64f9ddb22edc35eed3efa962"
+      }
+    },
+    {
+      "_id": "64f873480dd42cebebcf55b3",
+      "name": "Nokia 3310",
+      "price": 380000,
+      "slugify": "nokia-3310-b768",
+      "images": [
+        "/uploads/photos_1694104621630.jpg",
+        "/uploads/photos_1694104622077.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 150,
+      "colors": [
+        {
+          "name": "black ",
+          "color": "rgb(0, 0, 0)",
+          "_id": "64f873480dd42cebebcf55b4"
+        }
+      ],
+      "createdAt": "2023-09-06T12:40:40.293Z",
+      "units": {
+        "sizes": [],
+        "_id": "64f9fc35db03268b9e4d07ab"
+      }
+    },
+    {
+      "_id": "64f8716e0dd42cebebcf5406",
+      "name": "Nokia 8110",
+      "price": 440000,
+      "slugify": "nokia-8110-2306",
+      "images": [
+        "/uploads/photos_1694015552948.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 149,
+      "colors": [
+        {
+          "name": "black",
+          "color": "rgb(0, 0, 0)",
+          "_id": "64f8716e0dd42cebebcf5407"
+        }
+      ],
+      "createdAt": "2023-09-06T12:32:46.070Z",
+      "units": {
+        "sizes": [],
+        "_id": "64f8a0530dd42cebebcf6fed"
+      }
+    },
+    {
+      "_id": "64f86d380dd42cebebcf50bc",
+      "name": "Smart Watch HK 9 Pro Full Amoled",
+      "price": 500000,
+      "slugify": "smart-watch-hk-9-pro-full-amoled-6f1c",
+      "images": [
+        "/uploads/photos_1694096633585.jpg",
+        "/uploads/photos_1694096636244.webp",
+        "/uploads/photos_1694096680839.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 146,
+      "colors": [],
+      "createdAt": "2023-09-06T12:14:48.187Z",
+      "units": {
+        "sizes": [],
+        "_id": "64f9dd292edc35eed3efa8f4"
+      }
+    },
+    {
+      "_id": "64f86a740dd42cebebcf4f99",
+      "name": "Nokia 2720 flip ",
+      "price": 480000,
+      "slugify": "nokia-2720-flip-9242",
+      "images": [
+        "/uploads/photos_1694104516427.jpg",
+        "/uploads/photos_1694104517139.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 144,
+      "colors": [
+        {
+          "name": "black ",
+          "color": "rgb(0, 0, 0)",
+          "_id": "64f86a740dd42cebebcf4f9a"
+        }
+      ],
+      "createdAt": "2023-09-06T12:03:00.650Z",
+      "units": {
+        "sizes": [],
+        "_id": "64f9fbcddb03268b9e4d0741"
+      }
+    },
+    {
+      "_id": "64f8673b0dd42cebebcf4d10",
+      "name": "Nokia 6310",
+      "price": 405000,
+      "slugify": "nokia-6310-d51e",
+      "images": [
+        "/uploads/photos_1694106301738.jpg",
+        "/uploads/photos_1694106304183.jpg",
+        "/uploads/photos_1694106307610.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 147,
+      "colors": [],
+      "createdAt": "2023-09-06T11:49:15.388Z",
+      "units": {
+        "sizes": [],
+        "_id": "64fa02cddb03268b9e4d0a8b"
+      }
+    },
+    {
+      "_id": "64f8607c0dd42cebebcf487c",
+      "name": " Nokia 2660 Dual Sim",
+      "price": 499000,
+      "slugify": "nokia-2660-dual-sim-3736",
+      "images": [
+        "/uploads/photos_1694104811945.jpg"
+      ],
+      "status": "ACTIVE",
+      "count": 35,
+      "colors": [],
+      "createdAt": "2023-09-06T11:20:28.189Z",
+      "units": {
+        "sizes": [],
+        "_id": "651be8fd69fe2447d29c4333"
+      }
+    }
+  ],
+  "cart": [
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 1
+    },
+    {
+      "name": "Smartfon uchun kuler L-05, akkumulyator bilan",
+      "price": 220000,
+      "slugify": "smartfon-uchun-kuler-l-05-akkumulyator-bilan-de40",
+      "images": [
+        "/uploads/photos_1696176465281.jpg"
+      ],
+      "count": 49,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "651999580f124a73444e23cb"
+      },
+      "createdAt": "2023-09-11T14:16:02.837Z",
+      "status": "ACTIVE",
+      "id": 2
+    },
+    {
+      "name": "Telefon kuller sovutgichi AL 07, telefon sovutish uchun",
+      "price": 180000,
+      "slugify": "telefon-kuller-sovutgichi-al-07-telefon-sovutish-uchun-898c",
+      "images": [
+        "/uploads/photos_1696178067029.jpg",
+        "/uploads/photos_1696178076847.jpg",
+        "/uploads/photos_1696178080181.jpg",
+        "/uploads/photos_1696178091172.jpg"
+      ],
+      "count": 59,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199fab0f124a73444e2581"
+      },
+      "createdAt": "2023-09-11T14:12:26.141Z",
+      "status": "ACTIVE",
+      "id": 3
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 4
+    },
+    {
+      "name": "Dyson",
+      "price": 500000,
+      "slugify": "dyson-f5b8",
+      "images": [
+        "/uploads/photos_1696169662824.jpg",
+        "/uploads/photos_1696169697133.jpg",
+        "/uploads/photos_1696173429839.jpg",
+        "/uploads/photos_1696173439121.jpg",
+        "/uploads/photos_1696173440525.jpg"
+      ],
+      "count": 149,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65198d830f124a73444e224a"
+      },
+      "createdAt": "2023-09-21T13:24:04.320Z",
+      "status": "ACTIVE",
+      "id": 5
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 6
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 7
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 8
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 9
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 10
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 11
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 12
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 13
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 14
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 15
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 16
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 17
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 18
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 19
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 20
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 21
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 22
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 23
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 24
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 25
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 26
+    },
+    {
+      "name": "Dyson",
+      "price": 500000,
+      "slugify": "dyson-f5b8",
+      "images": [
+        "/uploads/photos_1696169662824.jpg",
+        "/uploads/photos_1696169697133.jpg",
+        "/uploads/photos_1696173429839.jpg",
+        "/uploads/photos_1696173439121.jpg",
+        "/uploads/photos_1696173440525.jpg"
+      ],
+      "count": 149,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65198d830f124a73444e224a"
+      },
+      "createdAt": "2023-09-21T13:24:04.320Z",
+      "status": "ACTIVE",
+      "id": 27
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 28
+    },
+    {
+      "name": "Dyson",
+      "price": 500000,
+      "slugify": "dyson-f5b8",
+      "images": [
+        "/uploads/photos_1696169662824.jpg",
+        "/uploads/photos_1696169697133.jpg",
+        "/uploads/photos_1696173429839.jpg",
+        "/uploads/photos_1696173439121.jpg",
+        "/uploads/photos_1696173440525.jpg"
+      ],
+      "count": 149,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65198d830f124a73444e224a"
+      },
+      "createdAt": "2023-09-21T13:24:04.320Z",
+      "status": "ACTIVE",
+      "id": 29
+    },
+    {
+      "name": "Dyson",
+      "price": 500000,
+      "slugify": "dyson-f5b8",
+      "images": [
+        "/uploads/photos_1696169662824.jpg",
+        "/uploads/photos_1696169697133.jpg",
+        "/uploads/photos_1696173429839.jpg",
+        "/uploads/photos_1696173439121.jpg",
+        "/uploads/photos_1696173440525.jpg"
+      ],
+      "count": 149,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65198d830f124a73444e224a"
+      },
+      "createdAt": "2023-09-21T13:24:04.320Z",
+      "status": "ACTIVE",
+      "id": 30
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 31
+    },
+    {
+      "name": "Smartfon uchun kuler L-05, akkumulyator bilan",
+      "price": 220000,
+      "slugify": "smartfon-uchun-kuler-l-05-akkumulyator-bilan-de40",
+      "images": [
+        "/uploads/photos_1696176465281.jpg"
+      ],
+      "count": 49,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "651999580f124a73444e23cb"
+      },
+      "createdAt": "2023-09-11T14:16:02.837Z",
+      "status": "ACTIVE",
+      "id": 32
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 33
+    },
+    {
+      "name": "Smartfon uchun kuler L-05, akkumulyator bilan",
+      "price": 220000,
+      "slugify": "smartfon-uchun-kuler-l-05-akkumulyator-bilan-de40",
+      "images": [
+        "/uploads/photos_1696176465281.jpg"
+      ],
+      "count": 49,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "651999580f124a73444e23cb"
+      },
+      "createdAt": "2023-09-11T14:16:02.837Z",
+      "status": "ACTIVE",
+      "id": 34
+    },
+    {
+      "name": "Smartfon uchun kuler L-05, akkumulyator bilan",
+      "price": 220000,
+      "slugify": "smartfon-uchun-kuler-l-05-akkumulyator-bilan-de40",
+      "images": [
+        "/uploads/photos_1696176465281.jpg"
+      ],
+      "count": 49,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "651999580f124a73444e23cb"
+      },
+      "createdAt": "2023-09-11T14:16:02.837Z",
+      "status": "ACTIVE",
+      "id": 35
+    },
+    {
+      "name": "Telefon kuller sovutgichi AL 07, telefon sovutish uchun",
+      "price": 180000,
+      "slugify": "telefon-kuller-sovutgichi-al-07-telefon-sovutish-uchun-898c",
+      "images": [
+        "/uploads/photos_1696178067029.jpg",
+        "/uploads/photos_1696178076847.jpg",
+        "/uploads/photos_1696178080181.jpg",
+        "/uploads/photos_1696178091172.jpg"
+      ],
+      "count": 59,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199fab0f124a73444e2581"
+      },
+      "createdAt": "2023-09-11T14:12:26.141Z",
+      "status": "ACTIVE",
+      "id": 36
+    },
+    {
+      "name": "Baseus PPJL010001 10000mAh",
+      "price": 440000,
+      "slugify": "baseus-ppjl010001-10000mah-492d",
+      "images": [
+        "/uploads/photos_1696178594169.jpg",
+        "/uploads/photos_1696178603849.jpg",
+        "/uploads/photos_1696178613230.jpg",
+        "/uploads/photos_1696178621368.jpg",
+        "/uploads/photos_1696178625964.jpg"
+      ],
+      "count": 60,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "6519a1c40f124a73444e26cf"
+      },
+      "createdAt": "2023-09-11T13:59:47.659Z",
+      "status": "ACTIVE",
+      "id": 37
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 38
+    },
+    {
+      "name": "Telefon kuller sovutgichi AL 07, telefon sovutish uchun",
+      "price": 180000,
+      "slugify": "telefon-kuller-sovutgichi-al-07-telefon-sovutish-uchun-898c",
+      "images": [
+        "/uploads/photos_1696178067029.jpg",
+        "/uploads/photos_1696178076847.jpg",
+        "/uploads/photos_1696178080181.jpg",
+        "/uploads/photos_1696178091172.jpg"
+      ],
+      "count": 59,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199fab0f124a73444e2581"
+      },
+      "createdAt": "2023-09-11T14:12:26.141Z",
+      "status": "ACTIVE",
+      "id": 39
+    },
+    {
+      "name": "Bluetooth-karnay Wekome D31 mini",
+      "price": 300000,
+      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
+      "images": [
+        "/uploads/photos_1696176611532.jpg",
+        "/uploads/photos_1696176611582.jpg",
+        "/uploads/photos_1696176625550.jpg",
+        "/uploads/photos_1696176640910.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199a030f124a73444e2441"
+      },
+      "createdAt": "2023-09-11T14:20:31.092Z",
+      "status": "ACTIVE",
+      "id": 40
+    },
+    {
+      "name": "Dyson",
+      "price": 500000,
+      "slugify": "dyson-f5b8",
+      "images": [
+        "/uploads/photos_1696169662824.jpg",
+        "/uploads/photos_1696169697133.jpg",
+        "/uploads/photos_1696173429839.jpg",
+        "/uploads/photos_1696173439121.jpg",
+        "/uploads/photos_1696173440525.jpg"
+      ],
+      "count": 149,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65198d830f124a73444e224a"
+      },
+      "createdAt": "2023-09-21T13:24:04.320Z",
+      "status": "ACTIVE",
+      "id": 41
+    },
+    {
+      "name": "Telefon kuller sovutgichi AL 07, telefon sovutish uchun",
+      "price": 180000,
+      "slugify": "telefon-kuller-sovutgichi-al-07-telefon-sovutish-uchun-898c",
+      "images": [
+        "/uploads/photos_1696178067029.jpg",
+        "/uploads/photos_1696178076847.jpg",
+        "/uploads/photos_1696178080181.jpg",
+        "/uploads/photos_1696178091172.jpg"
+      ],
+      "count": 59,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65199fab0f124a73444e2581"
+      },
+      "createdAt": "2023-09-11T14:12:26.141Z",
+      "status": "ACTIVE",
+      "id": 42
+    },
+    {
+      "name": "Baseus PPJL010001 10000mAh",
+      "price": 440000,
+      "slugify": "baseus-ppjl010001-10000mah-492d",
+      "images": [
+        "/uploads/photos_1696178594169.jpg",
+        "/uploads/photos_1696178603849.jpg",
+        "/uploads/photos_1696178613230.jpg",
+        "/uploads/photos_1696178621368.jpg",
+        "/uploads/photos_1696178625964.jpg"
+      ],
+      "count": 60,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "6519a1c40f124a73444e26cf"
+      },
+      "createdAt": "2023-09-11T13:59:47.659Z",
+      "status": "ACTIVE",
+      "id": 43
+    },
+    {
+      "name": "Tashqi akkumulyator Borofone BJ29 Discovery Edition PD20W, 10000 mA/soat",
+      "price": 390000,
+      "slugify": "tashqi-akkumulyator-borofone-bj29-discovery-edition-pd20w-10000-masoat-7111",
+      "images": [
+        "/uploads/photos_1696180111547.jpg",
+        "/uploads/photos_1696180169072.jpg",
+        "/uploads/photos_1696180170130.jpg",
+        "/uploads/photos_1696180205974.jpg"
+      ],
+      "count": 30,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "6519a7f10f124a73444e2874"
+      },
+      "createdAt": "2023-09-11T13:36:28.986Z",
+      "status": "ACTIVE",
+      "id": 44
+    },
+    {
+      "name": "Borofone BE54",
+      "price": 290000,
+      "slugify": "borofone-be54-7a00",
+      "images": [
+        "/uploads/photos_1696182295654.png",
+        "/uploads/photos_1696182313565.jpg",
+        "/uploads/photos_1696182317765.jpg"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "6519b0350f124a73444e2c10"
+      },
+      "createdAt": "2023-09-11T13:05:59.570Z",
+      "status": "ACTIVE",
+      "id": 45
+    },
+    {
+      "name": "Dyson",
+      "price": 500000,
+      "slugify": "dyson-f5b8",
+      "images": [
+        "/uploads/photos_1696169662824.jpg",
+        "/uploads/photos_1696169697133.jpg",
+        "/uploads/photos_1696173429839.jpg",
+        "/uploads/photos_1696173439121.jpg",
+        "/uploads/photos_1696173440525.jpg"
+      ],
+      "count": 149,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "65198d830f124a73444e224a"
+      },
+      "createdAt": "2023-09-21T13:24:04.320Z",
+      "status": "ACTIVE",
+      "id": 46
+    },
+    {
+      "name": "Yesido EP03",
+      "price": 360000,
+      "slugify": "yesido-ep03-793a",
+      "images": [
+        "/uploads/photos_1696186280447.jpg",
+        "/uploads/photos_1696186291582.png"
+      ],
+      "count": 50,
+      "colors": [],
+      "units": {
+        "sizes": [],
+        "_id": "6519bfbb0f124a73444e303f"
+      },
+      "createdAt": "2023-09-11T12:37:21.618Z",
+      "status": "ACTIVE",
+      "id": 47
+    }
+  ],
+  "selected": [],
+  "activemenu": []
+}

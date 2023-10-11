@@ -1,0 +1,19 @@
+
+.nav-item{
+    position: relative;
+    color: rgba(0, 0, 0, 0.7);
+    &::after{
+        content: "";
+        background-color: #3333CC;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        transform: scale(0);
+        height: 2px;
+        width: 100%;
+        transition: all 0.3s ease;
+    }
+    &:hover::after{
+        transform: scale(1);
+    }
+}
