@@ -3,6 +3,7 @@ import useProductApi from "../../service/product/useProductApi";
 import Wishescard from "./../../components/UI/Wishescard/Wishescard";
 import useProductStore from "./../../store/useProductStore";
 import CardWrapperSl from "./../../components/Layout/CardWrapperSl";
+import Error from './../Error/Error';
 
 const Wishes = () => {
   const { getAllProductsFromWishes } = useProductApi;
@@ -11,8 +12,6 @@ const Wishes = () => {
 
   useEffect(() => {
     useProductApi.getAll().then((res) => {
-      console.log(res.data);
-      console.log(res.data);
       setProduct(res.data);
       setLoader();
     });
@@ -39,10 +38,10 @@ const Wishes = () => {
         <div className="flex items-center justify-start gap-4">
           {data.length > 0
             ? data?.map((item, index) => <Wishescard key={index} item={item} />)
-            : "Loading..."}
+            : <Error />}
         </div>
 
-        <CardWrapperSl data={product}></CardWrapperSl>
+        {/* <CardWrapperSl data={product}></CardWrapperSl> */}
       </div>
     </section>
   );

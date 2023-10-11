@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import useProductApi from "../../service/product/useProductApi";
 import CartItem from "../../components/UI/CartItem";
+import Error from './../Error/Error';
 
 const Cart = () => {
   const { getAllProductsFromCart } = useProductApi;
@@ -51,7 +52,7 @@ const Cart = () => {
                 ? data?.map((item, index) => (
                     <CartItem key={index} item={item} />
                   ))
-                : "Loading..."}
+                : <Error />}
             </div>
           </div>
           <div className="border border-1 p-[20px] flex-grow rounded-lg">

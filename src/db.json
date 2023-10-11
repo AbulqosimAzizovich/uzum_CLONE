@@ -965,42 +965,20 @@
   "cart": [],
   "wishes": [
     {
-      "name": "Tashqi akkumulyator Borofone BJ29 Discovery Edition PD20W, 10000 mA/soat",
-      "price": 390000,
-      "slugify": "tashqi-akkumulyator-borofone-bj29-discovery-edition-pd20w-10000-masoat-7111",
+      "name": "Smartfon uchun kuler L-05, akkumulyator bilan",
+      "price": 220000,
+      "slugify": "smartfon-uchun-kuler-l-05-akkumulyator-bilan-de40",
       "images": [
-        "/uploads/photos_1696180111547.jpg",
-        "/uploads/photos_1696180169072.jpg",
-        "/uploads/photos_1696180170130.jpg",
-        "/uploads/photos_1696180205974.jpg"
+        "/uploads/photos_1696176465281.jpg"
       ],
-      "count": 30,
+      "count": 49,
       "units": {
         "sizes": [],
-        "_id": "6519a7f10f124a73444e2874"
+        "_id": "651999580f124a73444e23cb"
       },
-      "createdAt": "2023-09-11T13:36:28.986Z",
+      "createdAt": "2023-09-11T14:16:02.837Z",
       "status": "ACTIVE",
       "id": 1
-    },
-    {
-      "name": "Bluetooth-karnay Wekome D31 mini",
-      "price": 300000,
-      "slugify": "bluetooth-karnay-wekome-d31-mini-a224",
-      "images": [
-        "/uploads/photos_1696176611532.jpg",
-        "/uploads/photos_1696176611582.jpg",
-        "/uploads/photos_1696176625550.jpg",
-        "/uploads/photos_1696176640910.jpg"
-      ],
-      "count": 50,
-      "units": {
-        "sizes": [],
-        "_id": "65199a030f124a73444e2441"
-      },
-      "createdAt": "2023-09-11T14:20:31.092Z",
-      "status": "ACTIVE",
-      "id": 2
     },
     {
       "name": "Smartfon uchun kuler L-05, akkumulyator bilan",
@@ -1016,7 +994,7 @@
       },
       "createdAt": "2023-09-11T14:16:02.837Z",
       "status": "ACTIVE",
-      "id": 3
+      "id": 2
     }
   ],
   "selected": [],
