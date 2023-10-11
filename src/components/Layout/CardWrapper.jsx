@@ -22,3 +22,4 @@ const CardWrapper = ({ title, data }) => {
 };
 
 export default CardWrapper;
+ 

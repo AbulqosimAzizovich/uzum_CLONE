@@ -18,15 +18,17 @@ const Cart = () => {
   return (
     <div className="container mx-auto mt-[50px]">
       <div>
-        <h2 className="text-[24px] mb-7">
+        <h2 className="text-[24px] mb-7 font-semibold">
           Savatingiz:
           <span className="ml-[8px] text-gray-600">
             <strong>{data?.length}</strong> mahsulot
           </span>
         </h2>
         <div className="flex items-start gap-[12px]">
-          <div className="border border-1 max-w-[1000
-            px] w-full p-4 pb-0 rounded-lg">
+          <div
+            className="border border-1 max-w-[1000
+            px] w-full p-4 pb-0 rounded-lg"
+          >
             <div className="flex items-center justify-between mb-[20px]">
               <div className="flex items-center gap-2">
                 <input className="cursor-pointer" id="check" type="checkbox" />

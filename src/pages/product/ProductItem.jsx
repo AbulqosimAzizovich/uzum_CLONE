@@ -154,11 +154,7 @@ const ProductItem = () => {
               <div className="flex flex-col items-start gap-y-2 w-full pl-[5px] justify-center">
                 <p>Miqdor:</p>
                 <div className="flex items-center">
-                  {/* <div className="flex items-center justify-start rounded-[4px] overflow-hidden mr-4">
-                                        <button className="w-[38px] h-[38px] border"></button>
-                                        <button className="w-[38px] h-[38px] border"></button>
-                                        <button className="w-[38px] h-[38px] border"></button>
-                                    </div> */}
+                  
                   <Counter />
                   <span className="text-[14px] text-[#00C853] ml-4">
                     Sotuvda {product.count} dona bor
