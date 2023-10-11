@@ -13,9 +13,10 @@ const ProductItem = () => {
   let { slug } = useParams();
   const [isLike, setIsLike] = useState(false);
   const [selected, setSelected] = useState(false);
-
+  const { name, price, slugify, images, count, units, createdAt, status } =
+    product;
   const { likeProd } = useLikeStore();
-
+  const { addToWishesFunc } = useProductApi;
   const toast = useRef(null);
 
   const state = () => {
@@ -42,6 +43,39 @@ const ProductItem = () => {
     });
   };
 
+  useEffect(() => {
+    state();
+
+    JSON.parse(localStorage.getItem("LIKE_COLLECTION"))?.forEach((item) => {
+      if (item._id == product._id) {
+        setIsLike(true);
+      }
+    });
+
+    console.log(JSON.parse(localStorage.getItem("LIKE_COLLECTION")));
+
+    console.log(selected);
+  }, [slug, product._id]);
+  const showSuccess1 = () => {
+    toast.current.show({
+      severity: "success",
+      summary: "Saralanganlarga qo'shildi",
+      detail: name,
+      life: 3000,
+    });
+  };
+  const addToWishes = async () => {
+    const wRes = await addToWishesFunc({
+      name,
+      price,
+      slugify,
+      images,
+      count,
+      units,
+      createdAt,  
+      status,
+    });
+  };
   const setLikeFun = () => {
     console.log("ok");
 
@@ -81,21 +115,9 @@ const ProductItem = () => {
     if (!JSON.parse(localStorage.getItem("LIKE_COLLECTION"))) {
       likeProd(product);
     }
+
+    addToWishes();
   };
-
-  useEffect(() => {
-    state();
-
-    JSON.parse(localStorage.getItem("LIKE_COLLECTION"))?.forEach((item) => {
-      if (item._id == product._id) {
-        setIsLike(true);
-      }
-    });
-
-    console.log(JSON.parse(localStorage.getItem("LIKE_COLLECTION")));
-
-    console.log(selected);
-  }, [slug, product._id]);
 
   return (
     <section id="item" className="py-8">
@@ -154,7 +176,6 @@ const ProductItem = () => {
               <div className="flex flex-col items-start gap-y-2 w-full pl-[5px] justify-center">
                 <p>Miqdor:</p>
                 <div className="flex items-center">
-                  
                   <Counter />
                   <span className="text-[14px] text-[#00C853] ml-4">
                     Sotuvda {product.count} dona bor

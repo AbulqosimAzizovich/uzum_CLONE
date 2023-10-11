@@ -3,7 +3,7 @@ import useProductApi from "../../service/product/useProductApi";
 import Wishescard from "./../../components/UI/Wishescard/Wishescard";
 import useProductStore from "./../../store/useProductStore";
 import CardWrapperSl from "./../../components/Layout/CardWrapperSl";
-import Error from './../Error/Error';
+import Error from "./../Error/Error";
 
 const Wishes = () => {
   const { getAllProductsFromWishes } = useProductApi;
@@ -35,11 +35,15 @@ const Wishes = () => {
           Istaklarim
         </h2>
 
-        <div className="flex items-center justify-start gap-4">
-          {data.length > 0
-            ? data?.map((item, index) => <Wishescard key={index} item={item} />)
-            : <Error />}
-        </div>
+        {data.length > 0 ? (
+          <div className="grid grid-cols-5 gap-y-5">
+            {data?.map((item, index) => (
+              <Wishescard key={index} item={item} />
+            ))}
+          </div>
+        ) : (
+          <Error />
+        )}
 
         {/* <CardWrapperSl data={product}></CardWrapperSl> */}
       </div>

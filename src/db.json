@@ -962,39 +962,125 @@
       }
     }
   ],
-  "cart": [],
-  "wishes": [
+  "cart": [
     {
-      "name": "Smartfon uchun kuler L-05, akkumulyator bilan",
-      "price": 220000,
-      "slugify": "smartfon-uchun-kuler-l-05-akkumulyator-bilan-de40",
+      "name": "Baseus PPJL010001 10000mAh",
+      "price": 440000,
+      "slugify": "baseus-ppjl010001-10000mah-492d",
       "images": [
-        "/uploads/photos_1696176465281.jpg"
+        "/uploads/photos_1696178594169.jpg",
+        "/uploads/photos_1696178603849.jpg",
+        "/uploads/photos_1696178613230.jpg",
+        "/uploads/photos_1696178621368.jpg",
+        "/uploads/photos_1696178625964.jpg"
       ],
-      "count": 49,
+      "count": 60,
+      "colors": [],
       "units": {
         "sizes": [],
-        "_id": "651999580f124a73444e23cb"
+        "_id": "6519a1c40f124a73444e26cf"
       },
-      "createdAt": "2023-09-11T14:16:02.837Z",
+      "createdAt": "2023-09-11T13:59:47.659Z",
       "status": "ACTIVE",
       "id": 1
     },
     {
-      "name": "Smartfon uchun kuler L-05, akkumulyator bilan",
-      "price": 220000,
-      "slugify": "smartfon-uchun-kuler-l-05-akkumulyator-bilan-de40",
+      "name": "Telefon kuller sovutgichi AL 07, telefon sovutish uchun",
+      "price": 180000,
+      "slugify": "telefon-kuller-sovutgichi-al-07-telefon-sovutish-uchun-898c",
       "images": [
-        "/uploads/photos_1696176465281.jpg"
+        "/uploads/photos_1696178067029.jpg",
+        "/uploads/photos_1696178076847.jpg",
+        "/uploads/photos_1696178080181.jpg",
+        "/uploads/photos_1696178091172.jpg"
       ],
-      "count": 49,
+      "count": 59,
+      "colors": [],
       "units": {
         "sizes": [],
-        "_id": "651999580f124a73444e23cb"
+        "_id": "65199fab0f124a73444e2581"
       },
-      "createdAt": "2023-09-11T14:16:02.837Z",
+      "createdAt": "2023-09-11T14:12:26.141Z",
       "status": "ACTIVE",
       "id": 2
+    }
+  ],
+  "wishes": [
+    {
+      "name": "Telefon kuller sovutgichi AL 07, telefon sovutish uchun",
+      "price": 180000,
+      "slugify": "telefon-kuller-sovutgichi-al-07-telefon-sovutish-uchun-898c",
+      "images": [
+        "/uploads/photos_1696178067029.jpg",
+        "/uploads/photos_1696178076847.jpg",
+        "/uploads/photos_1696178080181.jpg",
+        "/uploads/photos_1696178091172.jpg"
+      ],
+      "count": 59,
+      "units": {
+        "sizes": [],
+        "_id": "65199fab0f124a73444e2581"
+      },
+      "createdAt": "2023-09-11T14:12:26.141Z",
+      "status": "ACTIVE",
+      "id": 1
+    },
+    {
+      "name": "Telefon kuller sovutgichi AL 07, telefon sovutish uchun",
+      "price": 180000,
+      "slugify": "telefon-kuller-sovutgichi-al-07-telefon-sovutish-uchun-898c",
+      "images": [
+        "/uploads/photos_1696178067029.jpg",
+        "/uploads/photos_1696178076847.jpg",
+        "/uploads/photos_1696178080181.jpg",
+        "/uploads/photos_1696178091172.jpg"
+      ],
+      "count": 59,
+      "units": {
+        "sizes": [],
+        "_id": "65199fab0f124a73444e2581"
+      },
+      "createdAt": "2023-09-11T14:12:26.141Z",
+      "status": "ACTIVE",
+      "id": 2
+    },
+    {
+      "name": "Telefon kuller sovutgichi AL 07, telefon sovutish uchun",
+      "price": 180000,
+      "slugify": "telefon-kuller-sovutgichi-al-07-telefon-sovutish-uchun-898c",
+      "images": [
+        "/uploads/photos_1696178067029.jpg",
+        "/uploads/photos_1696178076847.jpg",
+        "/uploads/photos_1696178080181.jpg",
+        "/uploads/photos_1696178091172.jpg"
+      ],
+      "count": 59,
+      "units": {
+        "sizes": [],
+        "_id": "65199fab0f124a73444e2581"
+      },
+      "createdAt": "2023-09-11T14:12:26.141Z",
+      "status": "ACTIVE",
+      "id": 3
+    },
+    {
+      "name": "Telefon kuller sovutgichi AL 07, telefon sovutish uchun",
+      "price": 180000,
+      "slugify": "telefon-kuller-sovutgichi-al-07-telefon-sovutish-uchun-898c",
+      "images": [
+        "/uploads/photos_1696178067029.jpg",
+        "/uploads/photos_1696178076847.jpg",
+        "/uploads/photos_1696178080181.jpg",
+        "/uploads/photos_1696178091172.jpg"
+      ],
+      "count": 59,
+      "units": {
+        "sizes": [],
+        "_id": "65199fab0f124a73444e2581"
+      },
+      "createdAt": "2023-09-11T14:12:26.141Z",
+      "status": "ACTIVE",
+      "id": 4
     }
   ],
   "selected": [],
